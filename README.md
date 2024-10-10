@@ -7,7 +7,7 @@ Atualmente estou aprendendo e criando projetos com:
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
- No futuro quando estiver bem habituado com essas tecnologias, pretendo expandir mais ainda meu conhecimento aprendendo outras linguagens de programação. :wink:
+ No futuro quando estiver bem habituado com essas tecnologias, pretendo expandir mais ainda meu conhecimento aprendendo outras tecnologias de desenvolvimento! :wink:
  <br>
  <br>
  [![Matheus-AlvesCS GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-AlvesCS)](https://github.com/anuraghazra/github-readme-stats)
